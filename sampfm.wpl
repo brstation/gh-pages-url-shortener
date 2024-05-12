@@ -1,0 +1,11 @@
+<?wpl version="1.0"?>
+<smil>
+      <head>
+
+    </head>
+    <body>
+        <seq>
+            <media src="http://shaincast.caster.fm:12060/listen.mp3?authne2783f3f37c302e9ce1b14d4ce828ada"/>
+        </seq>
+    </body>
+</smil>
